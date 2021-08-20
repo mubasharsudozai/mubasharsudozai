@@ -1,4 +1,4 @@
-# Hi there, I'm Nouman 👋
+# Hi there, I'm Mubashar 👋
 
 ### I'm a Developer, Student and Researcher!
 
