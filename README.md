@@ -11,7 +11,7 @@
 
 # ⚙️ GitHub Analytics
 
-<a href="https://github.com/Nouman945">
+<a href="https://github.com/mubasharsudozai">
   <img align="Center" width="420" src="https://github-readme-stats.vercel.app/api?username=mubasharsudozai&show_icons=true&theme=gruvbox" />
 </a>
 
